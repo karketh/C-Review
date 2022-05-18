@@ -3,7 +3,7 @@
 int main()
 {
 
-	types();
+	pointerreview();
 
 	return 0;
 }

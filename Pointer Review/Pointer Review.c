@@ -5,7 +5,10 @@ int pointerreview() {
 	int *b = &a;
 	int** c = &b;
 	printf("%d\n", **c);
-	**c = 2;
-	printf("%d", a);
+	**c = 6; //Dereferenced
+	printf("%d\n", a);
+	int ***d = &c;
+
+	printf("%d\n",  *( * (*(d))));
 	return 0;
 }

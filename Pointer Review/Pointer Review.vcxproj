@@ -130,6 +130,7 @@
     <ClCompile Include="Pointer Arithmetic.c" />
     <ClCompile Include="Pointer Review.c" />
     <ClCompile Include="Pointer Types and void pointers.c" />
+    <ClCompile Include="Pointers as function arguments.c" />
     <ClCompile Include="Source.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

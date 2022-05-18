@@ -27,5 +27,8 @@
     <ClCompile Include="Pointer Types and void pointers.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointers as function arguments.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
