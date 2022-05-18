@@ -18,5 +18,14 @@
     <ClCompile Include="Pointer Review.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pointer Arithmetic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pointer Types and void pointers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
