@@ -14,15 +14,12 @@ int structfun() {
     } 
 
     cars;
-
+int whydoesintellisensesuck = sizeof(int);
 
 int *happy = malloc( sizeof(cars));
-for (int i=1; i<5; i++) {
-
-};
-struct cars Andrew;
-strcpy("Hello", Andrew.make);
-    printf("%s \n", Andrew.make);
+struct cars test;
+strcpy("Hello", test.make);
+    printf("%s \n", test.make);
 
     return 0;
 }
