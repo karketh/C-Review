@@ -3,7 +3,7 @@
 int main()
 {
 
-	pointerreview();
+	structfun();
 
 	return 0;
 }
